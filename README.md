@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=NitaiBanik&theme=dracula)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NitaiBanik&show_icons=true&theme=dark&locale=en" alt="NitaiBanik" /></p>
+
+<h3> 🤝🏻  Connect with Me </h3>
+
+* [LinkedIn](https://www.linkedin.com/in/nitaichandrabanik/)
+
