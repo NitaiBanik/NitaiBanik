@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
  🎉 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=NitaiBanik)
- 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NitaiBanik&layout=compact)
   
   ### GitHub Trophy
 
